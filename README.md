@@ -1,0 +1,2 @@
+# Swift Array Index Out of Range
+This repository demonstrates a common error in Swift: accessing an element in an array using an index that is out of bounds.  Attempting to access an element beyond the valid index range (0 to count - 1) results in a runtime error.  The solution shows how to safely access array elements using checks to avoid this error.
